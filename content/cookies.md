@@ -1,4 +1,4 @@
 About cookies
 ==============================================
 
-Cookies if both delicious and usefull for web development
+Kakor är både gott och användbart för webbplatser.

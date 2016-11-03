@@ -1,14 +1,12 @@
-Cooking
+Matlagning
 ==============================================
 
-This is how you can make grilled cheese.
+###Så här gör man *grilled cheese*
 
-First of get some good cheeses and bread you can toast. Then follow this simple steps:
+Först så behöver man köpa en god ost och bröd som man kan rosta. När det är gjort så följer man dessa 3 steg för att göra denna fantastiska maträtt.
 
-* slice cheese
-* put cheese on toast
-* Toast the toast
+1. Hyvla osten i skivor
+2. Lägg osten på brödet
+3. Stek brödet i en stekpanna
 
----
-byline
-...
+Fantastiskt! Servera nu mackorna på en tallrik och njut.

@@ -1,13 +1,11 @@
-About this site
-==============================================
+Om denna sida
+=====================
 
-The primary focus of this site is to:
+Denna sida är under uppbyggnad och är en del av kursen *Design* som jag läser på BTH. I och med att kursen precis har börjat så vet jag inte riktigt vilka tekniker som vi kommer lära oss men utifrån kursens titel så verkar det som att vi kommer få fördjupa oss inom just design, och framförallt design för webben.
 
-* Perfect my design skills.
-* Trail and error.
-* Learn from mistakes.
+Min förhoppning är att kursen kommer ge mig en bra bas att stå på som man senare kan använda när man gör egna projekt.
 
-My name is *Christofer Jungberg* and if you want to know more about me visit
-[Me-page](http://localhost:8082/dbwebb/htmlphp/me/kmom06/me6/me.php).
+Jag föreställer mig att det kommer se ut ungefär såhär.
+![Designer vid dator](https://image.freepik.com/free-vector/designer-working-on-his-computer_23-2147528616.jpg)
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Källkoden till denna sida finns att hitta på [Github](https://github.com/Barelydead/anax-flat).

@@ -1,6 +1,7 @@
+<hr>
+<img src="img/byline.jpg" alt="bild på mig" class="bylinePiture" style="float:left; padding-right: 5px; padding-top: 5px;">
 
-> I have found that, in the composition of the human body as compared with the bodies of animals,
-> the organs of sense are duller and coarser. Thus, it is composed of less ingenious instruments,
-> and of spaces less capacious for receiving the faculties of sense.
+[Christofer Jungberg](http://localhost:8082/dbwebb/htmlphp/me/kmom06/me6/me.php)  - Student på Blekinge tekniska högskola som har ambitionen att bli en fullfjädrad webutvecklare.
 
-> *-Leonardo Da Vinci*
+> "I have not failed. I've just found 10,000 ways that won't work."  
+> - Tomas A. Edison

@@ -1,16 +1,18 @@
 ---
 titleBreadcrumb: Home
 ...
-Wow. A auto generated website.
+Anax-me
 ===============================
-This is amazing!
-----------------
+### En sida om webdesign och programmering
 
-Hello internet.
+Hej internet!
 
-This is my first markdown text.
+Det här är min första markdowntext. Jag vet att man kan göra text **fet** med hjälp av att sätta två stjärnor framför och *kursiv* genom att sätta en stjäna. Det finns massor av markdown syntax och jag kommer att testa alla framöver men för tillfället får det här räcka.
 
-You can make the text **bold** by using ** and *italic* using * . There is lots of different markdown syntax and I will be trying them all out eventually. But for now this will do.
+Lite om mig. Om det är något jag gör ofta och mycket så är det att dricka kaffe. På morgonen, på eftermiddagen, på kvällen. Ja när passar det inte med en kopp kaffe? Något jag tycker är intressant är att [kaffe](https://en.wikipedia.org/wiki/Coffee) inte är en böna utan kärnan i en frukt. Det finns säkert tusentals kaffefakta som är mer intressanta men det kändes som en bra start.
+
+Nåväl, Christofer heter jag iallafall men på internet så brukar mitt användarnamn bli Barelydead. Namnet kommer från en film med samma nanm som jag tyckte var trevlig när jag var ca 15år gammal. Den handlar om hur inlines eller rollerblades hade sin upp och nergång som sport och kulturellt fenomen.
 
 
-![me](img/bylineme.jpg)
+
+![me](img/indexme.jpg)

@@ -1,4 +1,4 @@
-Introduction
+Introduktion
 ===============================
 
-Here are my reports for the different kmoms.
+Denna sida kommer ständigt att fyllas på med nya redovisningar. Iallafall så länge kursen fortfarande är aktiv. 
