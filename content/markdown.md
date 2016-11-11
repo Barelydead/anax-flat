@@ -1,7 +1,6 @@
 Trying out Markdown
 =================================
-
-This is a sample file on how to use Markdown together with Anax.
+### This is a sample file on how to use Markdown together with Anax.
 
 
 

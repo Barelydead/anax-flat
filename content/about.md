@@ -5,7 +5,8 @@ Denna sida är under uppbyggnad och är en del av kursen *Design* som jag läser
 
 Min förhoppning är att kursen kommer ge mig en bra bas att stå på som man senare kan använda när man gör egna projekt.
 
-Jag föreställer mig att det kommer se ut ungefär såhär.
+Jag föreställer mig att det kommer se ut ungefär såhär.  
 ![Designer vid dator](https://image.freepik.com/free-vector/designer-working-on-his-computer_23-2147528616.jpg)
 
-Källkoden till denna sida finns att hitta på [Github](https://github.com/Barelydead/anax-flat).
+Källkoden till denna sida finns att hitta på [Github - Anax](https://github.com/Barelydead/anax-flat).  
+Källkoden till denna sida tema finns på [Github - Theme](https://github.com/Barelydead/anax-flat-theme).
