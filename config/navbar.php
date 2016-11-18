@@ -27,17 +27,19 @@ return [
                 "title" => t("About this website")
             ],
 
-            "cooking" => [
-                "text"  => t("Matlagning"),
-                "url"   => $this->di->get("url")->create("cooking"),
-                "title" => t("Grilled cheese")
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("vertical grid")
             ],
 
-            "markdown" => [
-                "text"  => t("Markdown"),
-                "url"   => $this->di->get("url")->create("markdown"),
-                "title" => t("Grilled cheese")
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography Grid")
             ],
+
+
         ],
     ],
 
@@ -68,16 +70,16 @@ return [
                 "title" => t("About this website")
             ],
 
-            "cooking" => [
-                "text"  => t("Matlagning"),
-                "url"   => $this->di->get("url")->create("cooking"),
-                "title" => t("Grilled cheese")
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("vertical grid")
             ],
 
-            "Markdown" => [
-                "text"  => t("Markdown"),
-                "url"   => $this->di->get("url")->create("markdown"),
-                "title" => t("Markdown test")
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography Grid")
             ],
         ],
     ],
