@@ -39,6 +39,19 @@ return [
                 "title" => t("typography Grid")
             ],
 
+            "teman" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("teman"),
+                "title" => t("sidans teman")
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("analys av hemsidor"),
+                "mark-if-parent" => true,
+            ],
+
 
         ],
     ],
@@ -80,6 +93,25 @@ return [
                 "text"  => t("Typography"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("typography Grid")
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("sidans teman")
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("analys av hemsidor"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme-selector" => [
+                "text"  => t("theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("theme-selector")
             ],
         ],
     ],
