@@ -1,5 +1,7 @@
 # Teman
 
+På [Temasidan](theme-selector) finns alla aktulla teman för sidan.
+
 #### Base
 
 I bastemat har jag inte ändrat några färgval utan har lagt all fokus på att strukturera upp sidan med en bra grundlayout.

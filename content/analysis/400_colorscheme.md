@@ -134,3 +134,7 @@ Sidan använder Arial som både brödtext samt rubriker. Det finns även text p�
 ####Analys:
 
 En hemsida som kan förbättras på många sätt. Jag tycker inte att färgvalen hjälper företaget då det inte har något bra samhörighet. Den känns som att man inte tänkt till utan valt färger allt eftersom.  
+
+
+####Grupp
+An, jakob, Jimmy, Marcus och Nicklas. Hangout 2016/11/22

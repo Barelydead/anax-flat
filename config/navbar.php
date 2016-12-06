@@ -52,6 +52,20 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("figure"),
+                "mark-if-parent" => true,
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Min bildblogg"),
+                "mark-if-parent" => true,
+            ],
+
 
         ],
     ],
@@ -95,9 +109,9 @@ return [
                 "title" => t("typography Grid")
             ],
 
-            "theme" => [
-                "text"  => t("Theme"),
-                "url"   => $this->di->get("url")->create("theme"),
+            "teman" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("teman"),
                 "title" => t("sidans teman")
             ],
 
@@ -105,6 +119,20 @@ return [
                 "text"  => t("Analys"),
                 "url"   => $this->di->get("url")->create("analysis"),
                 "title" => t("analys av hemsidor"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("figure"),
+                "mark-if-parent" => true,
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Min bildblogg"),
                 "mark-if-parent" => true,
             ],
 
