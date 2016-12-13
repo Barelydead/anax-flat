@@ -71,10 +71,55 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
-            "stylesheets" => []
+        "texture"       => [
+            "title"      => "Backgroud texture with transparent elements",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css"
+            ]
+        ],
+
+        "background"       => [
+            "title"      => "Backgroud image with full width and picture elements.",
+            "class"      => "background",
+            "stylesheets" => [
+                "css/background.min.css"
+            ]
+        ],
+
+
+        "gradients"       => [
+            "title"      => "Gradients lines and full width.",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/gradients.min.css"
+            ]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "depth"       => [
+            "title"      => "Using shadows and other stuff to create depth",
+            "class"      => "perspective",
+            "stylesheets" => [
+                "css/depth.min.css"
+            ]
+        ],
+
+        "movement"       => [
+            "title"      => "animations and hover over effekts to create movment",
+            "class"      => "balace",
+            "stylesheets" => [
+                "css/movement.min.css"
+            ]
+        ],
+
+        "repetition"       => [
+            "title"      => "reseing the same graphic elements on lots of places.",
+            "class"      => "balace",
+            "stylesheets" => [
+                "css/repetition.min.css"
+            ]
         ],
     ]
 ];

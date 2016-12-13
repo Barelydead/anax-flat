@@ -1,4 +1,4 @@
-#Färganalys
+#Color Scheme
 
 Jag har kollat på fyra hemsidor och hur dessa sidor är designade. Jag gjorde detta i grupp och det vi framförallt diskuterade är hur man valt färger, typografi och layout. Vi diskuterade utifrån dessa parametrar hur/om designvalen som gjorts är gynsamma mot företaget och på vilket sätt besökaren upplever sidan.
 

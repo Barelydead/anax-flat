@@ -59,6 +59,20 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "design-principle" => [
+                "text"  => t("Principles"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Design"),
+                "mark-if-parent" => true,
+            ],
+
+            "design-elements" => [
+                "text"  => t("Elements"),
+                "url"   => $this->di->get("url")->create("design-elements"),
+                "title" => t("Design"),
+                "mark-if-parent" => true,
+            ],
+
             "blogg" => [
                 "text"  => t("Blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
